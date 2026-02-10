@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイラブ言う",
+  "base_artist": "忘れらんねえよ",
+  "createdAt": "2026-02-10T03:51:12.461204Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイラブ言う",
+      "artist": "忘れらんねえよ",
+      "has_synced": false,
+      "path": "select/pl_01_アイラブ言う_忘れらんねえよ.txt"
+    }
+  ]
+}
